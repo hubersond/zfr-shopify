@@ -9,7 +9,7 @@ ZfrShopify is a modern PHP library based on Guzzle for [Shopify](https://www.sho
 ## Dependencies
 
 * PHP 7
-* [Guzzle](http://www.guzzlephp.org): ^6.1
+* [Guzzle](http://www.guzzlephp.org): ^7.5
 * [Zend Diactoros](https://github.com/zendframework/zend-diactoros): >=1.3
 
 ## Installation
